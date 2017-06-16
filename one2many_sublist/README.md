@@ -4,7 +4,7 @@
         <br/>
         <div class="oe_span6">
             <div class="oe_demo oe_screenshot">
-                <img src="/static/description/one2many_list.png">
+                <img src="https://github.com/raul87011523/odoo-modules/blob/master/one2many_sublist/static/description/one2many_list.png">
             </div>
         </div>
         <br/>
